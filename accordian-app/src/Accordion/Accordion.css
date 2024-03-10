@@ -1,0 +1,48 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.wrapper h1 {
+    font-size: 40px;
+}
+
+.wrapper button {
+    font-size: 25px;
+    padding: 10px 30px;
+    background: rgb(52, 9, 1);
+    color: #fff;
+    font-weight: 600;
+
+}
+
+
+
+.title {
+    border: 2px solid rgb(52, 23, 17);
+    /* width: 30vw; */
+    padding: 10px;
+    margin: 20px 0;
+    background: rgb(142, 27, 5);
+    color: #fff;
+
+
+
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30vw;
+
+}
+
+
+.text {
+    width: 30vw;
+    margin-bottom: 2;
+}

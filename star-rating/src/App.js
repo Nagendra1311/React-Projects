@@ -1,9 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
-import StarRating from './star-rating/StarRating'
+import StarRating from './components/StarRating';
 function App() {
   return (
     <div className="App">
+      <h1>Star Rating</h1>
       <StarRating />
     </div>
   );
